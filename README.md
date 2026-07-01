@@ -8,9 +8,9 @@ Classificação automatizada dos seis estágios de maturação das vértebras ce
 
 ## Contexto Clínico
 
-A avaliação da Maturação das Vértebras Cervicais (*Cervical Vertebral Maturation* — CVM) é um método amplamente utilizado em ortodontia para determinar a idade esquelética e o timing ideal para intervenções ortopédicas faciais. O método classifica o desenvolvimento das vértebras C2, C3 e C4 em seis estágios (CS1 a CS6) com base em alterações morfológicas observáveis em radiografias cefalométricas laterais.
+A avaliação da Maturação das Vértebras Cervicais (*Cervical Vertebral Maturation* -- CVM) é um método amplamente utilizado em ortodontia para determinar a idade esquelética e o timing ideal para intervenções ortopédicas faciais. O método classifica o desenvolvimento das vértebras C2, C3 e C4 em seis estágios (CS1 a CS6) com base em alterações morfológicas observáveis em radiografias cefalométricas laterais.
 
-A classificação manual desses estágios é subjetiva, demorada e dependente da experiência do examinador, além de ser sensível às variações de qualidade e contraste introduzidas por diferentes equipamentos de raio-X — fenômeno conhecido como *domain shift*.
+A classificação manual desses estágios é subjetiva, demorada e dependente da experiência do examinador, além de ser sensível às variações de qualidade e contraste introduzidas por diferentes equipamentos de raio-X -- fenômeno conhecido como *domain shift*.
 
 Este projeto propõe uma abordagem computacional para automatizar essa classificação, reduzindo a subjetividade e aumentando a reprodutibilidade do diagnóstico.
 
@@ -44,7 +44,15 @@ Aariz/
 │   ├── Cephalograms/
 │   └── Annotations/
 │       └── CVM Stages/
-├── cephalogram_machine_mappings.csv   # Mapeamento ceph_id -> equipamento
+├── results/
+│   ├── distribuicao_classes_random_split.png
+│   ├── curvas_treinamento_random_split.png
+│   ├── curvas_roc_random_split.png
+│   ├── matriz_confusao_random_split.png
+│   ├── acuracia_por_equipamento_random_split.png
+│   └── resultados_random_split.csv
+├── best_cvm_model.pth                      # Pesos do melhor modelo (maior val_acc)
+└── cvm_random_split.ipynb      
 └── Readme.txt
 ```
 
@@ -52,113 +60,87 @@ Aariz/
 
 ## Metodologia
 
-### Pipeline
+---
 
-O projeto implementa duas abordagens principais para a classificação CVM:
+#### Pipeline
 
-#### 1. Pipeline em Dois Estágios (`pipeline_cvm.py`)
+O projeto implementa a classificação CVM por  **classificação direta** , sem etapa prévia de detecção/recorte de região de interesse.
 
-- **Estágio 1 — YOLOv8n (Few-Shot):** Detecção e extração da região de interesse (ROI) contendo as vértebras C2-C4.
-- **Estágio 2 — ResNet-50 com fine-tuning:** Classificação dos 6 estágios CVM a partir das regiões extraídas.
+##### Classificação Direta (`cvm_random_split.ipynb`)
 
-#### 2. Classificação Direta (`train_cvm_improved.py`)
-
-- Arquiteturas suportadas: **ResNet-50**, **ViT-B/16**, **ViT-B/32**, **ViT-L/16**
-- Técnicas avançadas implementadas:
-  - **Focal Loss** com *label smoothing* para lidar com desbalanceamento severo entre classes
-  - **WeightedRandomSampler** para *oversampling* de classes minoritárias
-  - **Data augmentation** robusta (rotações de até ±15°, *RandomErasing*, *ColorJitter*, *RandomAffine*)
-  - **Mixup augmentation** durante o treinamento
-  - **CosineAnnealingWarmRestarts** como agendador de taxa de aprendizado
-  - **Test-Time Augmentation (TTA)** na avaliação
-  - *Early stopping* com base na loss de validação
+* Arquitetura:  **ResNet-50** , pré-treinada na ImageNet, com **fine-tuning completo**
+* Camada densa final substituída por `Dropout(0.3) + Linear(2048 → 6)`
+* Otimizador **Adam** (lr=1e-4, weight_decay=1e-4)
+* Scheduler **StepLR** (decaimento de 50% a cada 10 épocas)
+* `CrossEntropyLoss` com pesos por classe ( *class_weight* ) para compensar o desbalanceamento entre estágios
+* 30 épocas de treinamento
 
 ### Pré-processamento
 
 Todas as imagens passam por um fluxo de pré-processamento para padronização entre os diferentes equipamentos:
 
 1. **Redimensionamento** para 224×224 pixels
-2. **CLAHE** (*Contrast Limited Adaptive Histogram Equalization*) no canal L do espaço de cor LAB, realçando estruturas ósseas e mitigando variações de iluminação entre equipamentos
+2. **CLAHE** ( *Contrast Limited Adaptive Histogram Equalization* ) no canal L do espaço de cor LAB, realçando estruturas ósseas e mitigando variações de iluminação entre equipamentos
 3. **Normalização** com médias e desvios padrão do ImageNet
+4. **Data augmentation** (apenas no treino): flip horizontal (p=0.3), rotação aleatória (±5°) e ColorJitter (brilho/contraste ±0.2)
 
-### Estratégias de Validação
+#### Estratégia de Validação
 
-#### Divisão Padrão (*Random Split*)
-
-Divisão clássica 70/15/15 com pesos compensatórios (*class_weight*) na função de perda para lidar com o desbalanceamento natural das classes biológicas (ex.: CVM-S5 muito mais frequente que CVM-S1).
-
-#### Leave-One-Equipment-Out (LOEO) Cross-Validation
-
-Para avaliar a real capacidade de generalização, implementou-se um protocolo LOEO: o modelo é treinado em 6 equipamentos e testado no 7º (totalmente desconhecido). O ciclo se repete para cada um dos 7 equipamentos, fornecendo uma medida robusta de quão bem o modelo generaliza para fontes de imagem nunca vistas.
-
-#### K-Fold Cross-Validation (Estratificada)
-
-Validação cruzada com K folds (padrão: 5) preservando a proporção de classes em cada fold, oferecendo uma estimativa estável do desempenho independentemente da divisão treino/teste.
+Accuracy, F1-Score (macro e weighted), AUC-ROC (macro One-vs-Rest), Cohen's Kappa quadrático (apropriado para classes ordinais como o CVM) e Matriz de Confusão. Também é gerada uma quebra **informativa** de acurácia por equipamento de aquisição (usando `cephalogram_machine_mappings.csv`), para observar sensibilidade a variações de hardware dentro do próprio split oficial.
 
 ---
 
 ## Arquivos do Projeto
 
-| Arquivo | Descrição |
-|---|---|
-| `pipeline_cvm.py` | Pipeline principal em dois estágios (YOLO + ResNet) com suporte a LOEO |
-| `train_cvm_improved.py` | Pipeline otimizado com técnicas avançadas (Focal Loss, Mixup, TTA, K-Fold, ViT) |
-| `cvm_classification.ipynb` | Notebook inicial de classificação com ResNet-50 |
-| `classificacaoCVM.ipynb` | Notebook robusto com análise por equipamento e LOEO |
-| `best_cvm_model.pth` | Modelo salvo da classificação CVM |
-| `best_resnet_cvm.pth` | Melhor modelo ResNet-50 treinado |
-| `best_yolo_cvm.pt` | Melhor modelo YOLO para detecção de ROI |
-| `resultados_cvm.csv` | Resultados da classificação por classe |
-| `resultados/` | Diretório com gráficos de treinamento e matrizes de confusão |
-| `clasificacaoPorEquipamento7/` | Modelos e notebooks para classificação por equipamento |
+| Arquivo                    | Descrição                                       |
+| -------------------------- | ------------------------------------------------- |
+| `cvm_random_split.ipynb` | Notebook inicial de classificação com ResNet-50 |
+| `best_cvm_model.pth`     | Pesos do melhor modelo (maior val_acc)            |
+| `resultados_cvm.csv`     | Resultados da classificação por classe          |
+| `resultados/`            | Diretório com gráficos e matrizes de confusão |
 
 ---
 
 ## Como Executar
 
+### Criar uma venv
+
+```Shell
+python3 -m venv .venv
+source .venv/bin/activate        # Linux/Mac
+.venv\Scripts\activate           # Windows
+```
+
 ### Dependências
 
-```
-torch torchvision tqdm scikit-learn matplotlib seaborn pandas Pillow opencv-python ultralytics
-```
-
-### Pipeline Completo
-
-```bash
-# Pipeline em dois estágios (YOLO + ResNet)
-python pipeline_cvm.py --stage all
-
-# Pipeline otimizado
-python train_cvm_improved.py --stage all --epochs 150 --device cuda
-
-# Apenas treinar classificador
-python train_cvm_improved.py --stage train_classifier --epochs 100 --model resnet50
-
-# Avaliar modelo treinado
-python train_cvm_improved.py --stage evaluate
-
-# K-Fold Cross-Validation
-python train_cvm_improved.py --stage kfold --k-folds 5 --kfold-epochs 80
-
-# LOEO Cross-Validation
-python pipeline_cvm.py --stage loeo
+```Shell
+pip install torch torchvision scikit-learn seaborn matplotlib pandas opencv-python requests tqdm notebook
 ```
 
-### Uso via Notebook
+| Pacote                     | Função                                                |
+| -------------------------- | ------------------------------------------------------- |
+| `torch`,`torchvision`  | modelo ResNet-50, treinamento, dataloaders              |
+| `scikit-learn`           | métricas (F1, AUC-ROC, Kappa, matriz de confusão)     |
+| `opencv-python`          | CLAHE e leitura de imagens                              |
+| `pandas`                 | manipulação de metadados/anotações e resultados     |
+| `matplotlib`,`seaborn` | gráficos (curvas, matriz de confusão, distribuição) |
+| `requests`               | download automático do dataset via API do Figshare     |
+| `tqdm`                   | barras de progresso                                     |
 
-Os notebooks `classificacaoCVM.ipynb` e `cvm_classification.ipynb` oferecem uma interface interativa para explorar cada etapa do pipeline, visualizar os resultados e analisar a robustez por equipamento.
+### Rodar Jupyter Notebook
 
----
+```Python
+jupyter notebook cvm_random_split.ipynb
+```
 
-## Análise de Robustez
+### Saídas geradas
 
-Um dos principais focos do projeto é a investigação do *domain shift* causado pelos diferentes equipamentos de aquisição radiográfica. Para isso, o projeto oferece:
+Ao final da execução:
 
-1. **Acurácia estratificada por equipamento:** Identifica quais máquinas apresentam maior ou menor desempenho.
-2. **Desvio padrão entre equipamentos:** Quantifica a consistência do modelo entre diferentes fontes.
-3. **Comparação LOEO vs. Split Padrão:** Mede o gap de desempenho quando o modelo enfrenta equipamentos nunca vistos durante o treino.
-
-Essa análise é essencial para determinar se o modelo está aprendendo características morfológicas relevantes das vértebras ou apenas artefatos específicos de cada equipamento (efeito *Clever Hans*).
+1. *best_cvm_model.pth -- pesos do modelo com melhor acurácia de validação*
+2. *results/resultados_random_split.csv ==--== tabela-resumo das métricas de teste*
+3. *results/*.png -- gráficos de distribuição de classes, curvas de treinamento,
+4. matriz de confusão, curvas ROC e acurácia por equipamento
 
 ---
 
@@ -166,14 +148,40 @@ Essa análise é essencial para determinar se o modelo está aprendendo caracter
 
 Devido ao desbalanceamento natural entre os estágios CVM, a acurácia isolada não é suficiente. As métricas calculadas incluem:
 
-- **Acurácia (*Accuracy*)** global e por classe
-- **F1-Score** (Macro e Weighted)
-- **Cohen Kappa** (quadrático) — mede a concordância considerando a proximidade dos erros
-- **AUC-ROC Macro OvR** — área sob a curva ROC
-- **Matriz de Confusão** — análise da distribuição dos erros entre estágios adjacentes
-- **Classification Report** completo com precisão, recall e F1 por classe
+* **Accuracy** -- global e por classe
+* **F1-Score** (macro e weighted)
+* **AUC-ROC** (macro One-vs-Rest)
+* **Cohen's Kappa** quadrático -- apropriado para classes ordinais como o CVM, pois pondera a proximidade entre os erros (confundir CVM-S3 com CVM-S4 pesa menos que confundir CVM-S1 com CVM-S6)
+* **Matriz de Confusão** -- análise da distribuição dos erros entre estágios adjacentes
+* **Classification Report** completo, com precisão, recall e F1 por classe
+
+Também é gerada uma quebra **informativa** de acurácia por equipamento de aquisição (usando `cephalogram_machine_mappings.csv`), para observar sensibilidade a variações de hardware dentro do próprio split oficial.
 
 ---
+
+### Resultados
+
+| Métrica                    | Valor           |
+| --------------------------- | --------------- |
+| Accuracy                    | 0,5000 (50,00%) |
+| F1-Score (macro)            | 0,3432          |
+| F1-Score (weighted)         | 0,4918          |
+| AUC-ROC (macro OvR)         | 0,7639          |
+| Cohen's Kappa (quadrático) | 0,5566          |
+| Nº de imagens no teste     | 150             |
+
+### Gráficos gerados
+
+| Arquivo                                       | Descrição                                                                                    |
+| --------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| `distribuicao_classes_random_split.png`     | Distribuição dos 6 estágios CVM em treino/validação/teste                                 |
+| `curvas_treinamento_random_split.png`       | Loss e acurácia por época (treino vs. validação)                                           |
+| `matriz_confusao_random_split.png`          | Matriz de confusão (contagem e normalizada) no teste                                          |
+| `curvas_roc_random_split.png`               | Curvas ROC One-vs-Rest por estágio CVM                                                        |
+| `acuracia_por_equipamento_random_split.png` | Acurácia no teste, quebrada por equipamento de aquisição (análise informativa de robustez) |
+
+---
+
 
 ## Trabalhos Relacionados
 

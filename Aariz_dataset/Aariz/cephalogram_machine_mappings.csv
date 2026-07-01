@@ -1,0 +1,1001 @@
+cephalogram_id,machine,pixel_size,image_format,mode
+cks2ip8fp29yl0yuf6ry9266i,ART Plus,0.1,png,Test
+cks2ip8fq29yq0yufc4scftj8,ART Plus,0.1,png,Train
+cks2ip8fq29z00yufgnfla2tf,ART Plus,0.1,png,Train
+cks2ip8fq29za0yuf0tqu1qjs,ART Plus,0.1,jpg,Train
+cks2ip8fq29zf0yufe0r67c79,ART Plus,0.1,png,Valid
+cks2ip8fq29zp0yuf7cxd3bz2,ART Plus,0.1,png,Test
+cks2ip8fq29zz0yuf15jsfhlu,ART Plus,0.1,png,Test
+cks2ip8fq2a040yufdl20fomx,ART Plus,0.1,png,Test
+cks2ip8fq2a0j0yufdfssbc09,ART Plus,0.1,png,Train
+cks2ip8fq2a0o0yufhfuo7clg,ART Plus,0.1,png,Valid
+cks2ip8fq2a0t0yufgab484s9,ART Plus,0.1,png,Train
+cks2ip8fq2a0y0yuffbfbabyg,ART Plus,0.1,png,Valid
+cks2ip8fq2a130yuf5gyh2nrs,ART Plus,0.1,png,Train
+cks2ip8fq2a180yufh98ue4yo,ART Plus,0.1,png,Train
+cks2ip8fq2a1d0yuf82ote2y7,ART Plus,0.1,png,Test
+cks2ip8fq2a1i0yuf9ra939xh,ART Plus,0.1,png,Train
+cks2ip8fq2a1n0yuf8nqt3ndt,ART Plus,0.1,png,Train
+cks2ip8fq2a1s0yuf9wkw19xc,ART Plus,0.1,png,Valid
+cks2ip8fq2a1x0yuffrma5nom,ART Plus,0.1,png,Train
+cks2ip8fr2a2c0yuf3pc66vjh,ART Plus,0.1,png,Train
+cks2ip8fr2a2h0yuf2r8o8teg,ART Plus,0.1,png,Train
+cks2ip8fr2a2m0yuf7tz6ci2u,ART Plus,0.1,png,Train
+cks2ip8fr2a2r0yuf718nerfe,ART Plus,0.1,png,Test
+cks2ip8fr2a2w0yuf49bu0v1w,ART Plus,0.1,png,Train
+cks2ip8fr2a310yufbu6f5yvk,ART Plus,0.1,png,Train
+cks2ip8fr2a360yufgabnfga7,ART Plus,0.1,png,Train
+cks2ip8fr2a3b0yuff9a6ac73,ART Plus,0.1,png,Train
+cks2ip8fr2a3g0yufgxtf43y5,ART Plus,0.1,png,Test
+cks2ip8fr2a3l0yuf8pbcfolv,ART Plus,0.1,png,Train
+cks2ip8fr2a3q0yufadyu84rc,ART Plus,0.1,png,Train
+cks2ip8fr2a3v0yuf4hws1b5t,ART Plus,0.1,png,Train
+cks2ip8fr2a400yufhy4cdynz,ART Plus,0.1,png,Train
+cks2ip8fr2a450yufh9g37b34,ART Plus,0.1,png,Train
+cks2ip8fr2a4a0yuf57m734q6,ART Plus,0.1,png,Train
+cks2ip8fr2a4f0yuf1cuy2734,ART Plus,0.1,png,Valid
+cks2ip8fr2a4k0yuf29rs8pgy,ART Plus,0.1,png,Valid
+cks2ip8fr2a4p0yuffc5t82n9,ART Plus,0.1,png,Test
+cks2ip8fr2a4z0yufhpqa3onx,ART Plus,0.1,png,Train
+cks2ip8fr2a540yuf3ahybybs,ART Plus,0.1,png,Train
+cks2ip8fr2a590yuf5bkp8oan,ART Plus,0.1,png,Valid
+cks2ip8fr2a5e0yuf2k3vg7m5,ART Plus,0.1,png,Test
+cks2ip8fs2a5j0yuf4zvzectm,ART Plus,0.1,png,Train
+cks2ip8fs2a5o0yuf57hj23ih,ART Plus,0.1,png,Test
+cks2ip8fs2a5t0yuf4t5267nv,ART Plus,0.1,png,Train
+cks2ip8fs2a5y0yufdks3fnc8,ART Plus,0.1,png,Train
+cks2ip8fs2a630yufaujvahc6,ART Plus,0.1,png,Train
+cks2ip8fs2a680yuf1jlkaj72,ART Plus,0.1,png,Train
+cks2ip8fs2a6d0yuf5vtsd1cg,ART Plus,0.1,png,Train
+cks2ip8fs2a6i0yuf9ya2alpu,ART Plus,0.1,png,Train
+cks2ip8fs2a6n0yuf3fqc6vl6,ART Plus,0.1,png,Train
+cks2ip8fs2a6s0yuf82zxg497,ART Plus,0.1,png,Train
+cks2ip8fs2a720yuf4pbd24dn,ART Plus,0.1,png,Train
+cks2ip8fs2a770yuffdx863wg,ART Plus,0.1,png,Train
+cks2ip8fs2a7c0yuf95snfwts,ART Plus,0.1,png,Train
+cks2ip8fs2a7h0yuf02d1a04h,ART Plus,0.1,png,Train
+cks2ip8fs2a7m0yuffbyc33if,ART Plus,0.1,png,Train
+cks2ip8fs2a7r0yufdwttctv2,ART Plus,0.1,png,Train
+cks2ip8fs2a7w0yufeg4c17pb,ART Plus,0.1,png,Train
+cks2ip8fs2a810yuf7jtr4p97,ART Plus,0.1,png,Train
+cks2ip8fs2a860yufeukp2rnh,ART Plus,0.1,png,Train
+cks2ip8fs2a8b0yuff86b0qnt,ART Plus,0.1,png,Valid
+cks2ip8fs2a8l0yufho03g53d,ART Plus,0.1,png,Train
+cks2ip8fs2a8q0yuf4vtpb6uz,ART Plus,0.1,png,Train
+cks2ip8ft2a900yufcnmmbnqr,ART Plus,0.1,png,Train
+cks2ip8ft2a950yuf7e2t5vc0,ART Plus,0.1,png,Train
+cks2ip8ft2a9a0yufb9vj39mg,ART Plus,0.1,png,Train
+cks2ip8ft2a9f0yufap5d8hw6,ART Plus,0.1,png,Train
+cks2ip8ft2a9k0yufermt6rcf,ART Plus,0.1,png,Train
+cks2ip8ft2a9p0yuf06pobwgb,ART Plus,0.1,png,Train
+cks2ip8ft2a9u0yuf35j28hbd,ART Plus,0.1,png,Valid
+cks2ip8ft2a9z0yuff4zy2rlu,ART Plus,0.1,png,Test
+cks2ip8ft2aa40yuf8qoi6q13,ART Plus,0.1,png,Train
+cks2ip8ft2aa90yuf097z2qmt,ART Plus,0.1,png,Test
+cks2ip8ft2aae0yuf0p261tau,ART Plus,0.1,png,Train
+cks2ip8ft2aaj0yufe3k74e1l,ART Plus,0.1,png,Train
+cks2ip8ft2aao0yufhqhidv86,ART Plus,0.1,png,Train
+cks2ip8ft2aat0yufhyrqcmkc,ART Plus,0.1,png,Valid
+cks2ip8ft2aay0yufd1hegxsp,ART Plus,0.1,png,Train
+cks2ip8ft2ab30yuf04t0cu7c,ART Plus,0.1,png,Train
+cks2ip8ft2ab80yuf2otndehg,ART Plus,0.1,png,Train
+cks2ip8ft2abd0yufaodv6tr4,ART Plus,0.1,png,Valid
+cks2ip8ft2abn0yuf7mtm1geu,ART Plus,0.1,png,Train
+cks2ip8ft2abs0yufala728o7,ART Plus,0.1,png,Train
+cks2ip8ft2abx0yufa6de8q13,ART Plus,0.1,png,Test
+cks2ip8ft2ac20yufdsbc1hq2,ART Plus,0.1,png,Train
+cks2ip8ft2ac70yuf6rak2net,ART Plus,0.1,png,Train
+cks2ip8ft2acc0yufdlzwb2kt,ART Plus,0.1,png,Train
+cks2ip8fu2ach0yufcu3bh3ym,ART Plus,0.1,png,Train
+cks2ip8fw2acm0yuf4x6g8zor,ART Plus,0.1,png,Train
+cks2ip8fw2acr0yuf67hfduin,ART Plus,0.1,png,Train
+cks2ip8fw2acw0yufc37k4odc,ART Plus,0.1,png,Train
+cks2ip8fw2ad10yufac21cbdi,ART Plus,0.1,png,Train
+cks2ip8fw2ad60yuf9qbebjsn,ART Plus,0.1,png,Train
+cks2ip8fw2adb0yuf24dpc2q6,ART Plus,0.1,png,Train
+cks2ip8fw2adg0yuf1dzy9uwg,ART Plus,0.1,png,Train
+cks2ip8fw2adl0yuf5vdv9v0t,ART Plus,0.1,png,Train
+cks2ip8fw2adq0yufcgr730l9,ART Plus,0.1,png,Train
+cks2ip8fw2adv0yuf2jxu9g4b,ART Plus,0.1,png,Train
+cks2ip8fw2ae00yuf9gr01f61,ART Plus,0.1,png,Train
+cks2ip8fw2ae50yuf1ew55kdo,ART Plus,0.1,png,Train
+cks2ip8fw2aea0yuf1cv2clb1,ART Plus,0.1,png,Test
+cks2ip8fw2aef0yuf84en1vew,ART Plus,0.1,png,Valid
+cks2ip8fw2aek0yufd5l89lt6,ART Plus,0.1,png,Test
+cks2ip8fw2aep0yuf6etl1t1k,ART Plus,0.1,png,Valid
+cks2ip8fw2aeu0yufgnbwe7d9,ART Plus,0.1,png,Train
+cks2ip8fw2aez0yuff2hn7yf6,ART Plus,0.1,png,Train
+cks2ip8fw2af40yuf4iwk2mtm,ART Plus,0.1,png,Valid
+cks2ip8fw2afe0yufhlhta6hy,ART Plus,0.1,png,Train
+cks2ip8fw2afj0yuff9h9cjnt,ART Plus,0.1,png,Train
+cks2ip8fw2afo0yuf8x5geg4j,ART Plus,0.1,png,Train
+cks2ip8fw2aft0yuf4osh83cf,ART Plus,0.1,png,Valid
+cks2ip8fw2afy0yufguny1kml,ART Plus,0.1,png,Train
+cks2ip8fx2ag30yuf36j23yh3,ART Plus,0.1,png,Train
+cks2ip8fx2ag80yuf2woaboij,ART Plus,0.1,png,Valid
+cks2ip8fx2agd0yuf2rt9dbeq,ART Plus,0.1,png,Train
+cks2ip8fx2agi0yufhc8i501s,ART Plus,0.1,png,Test
+cks2ip8fx2agn0yufbzhggiuc,ART Plus,0.1,png,Train
+cks2ip8fx2ags0yuf31g85zfn,ART Plus,0.1,png,Train
+cks2ip8fx2ah20yufhhup4ec3,ART Plus,0.1,png,Train
+cks2ip8fx2ah70yuffx8fdsj2,ART Plus,0.1,png,Train
+cks2ip8fx2ahc0yuf6w8s49xa,ART Plus,0.1,png,Train
+cks2ip8fx2ahh0yuf8c2v1661,ART Plus,0.1,png,Train
+cks2ip8fx2ahm0yuffdyt5ueq,ART Plus,0.1,png,Train
+cks2ip8fx2ahr0yuf1yzcd444,ART Plus,0.1,png,Train
+cks2ip8fx2ahw0yufhn9xb0jn,ART Plus,0.1,png,Test
+cks2ip8fx2ai10yuf60ue28fy,ART Plus,0.1,png,Test
+cks2ip8fx2ai60yufg5lvclvo,ART Plus,0.1,png,Train
+cks2ip8fx2aib0yufdd4o5cpm,ART Plus,0.1,png,Train
+cks2ip8fx2ail0yuf7ujjgs4s,ART Plus,0.1,png,Train
+cks2ip8fx2aiv0yuf6fo57a5d,ART Plus,0.1,png,Train
+cks2ip8fx2aj00yuf7h0kh519,ART Plus,0.1,png,Valid
+cks2ip8fx2aj50yuf4kr31xds,ART Plus,0.1,png,Train
+cks2ip8fx2aja0yuf5pb807ia,ART Plus,0.1,png,Train
+cks2ip8fx2ajf0yuffmwse6bs,ART Plus,0.1,png,Valid
+cks2ip8fx2ajk0yufdo4h88tp,ART Plus,0.1,png,Train
+cks2ip8fy2ajp0yufct3v95vu,ART Plus,0.1,png,Train
+cks2ip8fy2aju0yuf8lqu1038,ART Plus,0.1,png,Test
+cks2ip8fy2ajz0yufh35h14xu,ART Plus,0.1,png,Test
+cks2ip8fy2ak40yufb4x13kzd,ART Plus,0.1,png,Train
+cks2ip8fy2ak90yuf23jt2wlv,ART Plus,0.1,png,Test
+cks2ip8fy2ake0yuffktadmv7,ART Plus,0.1,png,Train
+cks2ip8fy2akj0yuf8v21dshi,ART Plus,0.1,png,Valid
+cks2ip8fy2ako0yuf19i62c44,ART Plus,0.1,png,Train
+cks2ip8fy2akt0yufe7vobuu6,ART Plus,0.1,png,Train
+cks2ip8fy2aky0yuf9nxc7ep4,ART Plus,0.1,png,Train
+cks2ip8fy2al30yufbjxb3fnc,ART Plus,0.1,png,Valid
+cks2ip8fy2al80yuf9w4x9x27,ART Plus,0.1,png,Test
+cks2ip8fy2ald0yufglun6tq4,ART Plus,0.1,png,Test
+cks2ip8fy2ali0yuf7tso9vn4,ART Plus,0.1,png,Valid
+cks2ip8fy2aln0yuf410uemk2,ART Plus,0.1,png,Train
+cks2ip8fy2als0yuf2ypz7h8d,ART Plus,0.1,png,Valid
+cks2ip8fy2alx0yufdqqk1ymo,ART Plus,0.1,png,Train
+cks2ip8fy2am20yuf7h6d8xha,ART Plus,0.1,png,Train
+cks2ip8fy2am70yuf8bjkft9u,ART Plus,0.1,png,Train
+cks2ip8fy2amh0yuf86m2a1nb,ART Plus,0.1,png,Train
+cks2ip8fy2amm0yufgnfi05dg,ART Plus,0.1,png,Test
+cks2ip8fy2amr0yufh9rh5zs3,ART Plus,0.1,png,Train
+cks2ip8fz2an60yuf5baf04md,ART Plus,0.1,png,Train
+cks2ip8fz2anb0yufgh486oi2,ART Plus,0.1,png,Train
+cks2ip8fz2ang0yuf6hvhg9em,ART Plus,0.1,png,Valid
+cks2ip8fz2anl0yufe59x6gbe,ART Plus,0.1,png,Test
+cks2ip8fz2anq0yufeq3d63ex,ART Plus,0.1,png,Valid
+cks2ip8fz2anv0yufdoup0vpn,ART Plus,0.1,png,Test
+cks2ip8fz2ao00yuf0p085exq,ART Plus,0.1,png,Test
+cks2ip8fz2ao50yuf0zfpaq4i,ART Plus,0.1,png,Train
+cks2ip8fz2aoa0yufc55xd7nq,ART Plus,0.1,png,Train
+cks2ip8fz2aof0yuf8cqq45w0,ART Plus,0.1,png,Train
+cks2ip8fz2aok0yuf47rl0w0v,ART Plus,0.1,png,Valid
+cks2ip8fz2aop0yuf62a4dqhn,ART Plus,0.1,png,Train
+cks2ip8fz2aou0yuffiovhxs2,ART Plus,0.1,png,Train
+cks2ip8fz2aoz0yuf5ef71prl,ART Plus,0.1,png,Train
+cks2ip8fz2ap40yufh17426v6,ART Plus,0.1,png,Test
+cks2ip8fz2ap90yuf1tuy6abh,ART Plus,0.1,png,Train
+cks2ip8fz2ape0yuf5j8r9wq2,ART Plus,0.1,png,Valid
+cks2ip8fz2apj0yuf2f5f2tap,ART Plus,0.1,png,Train
+cks2ip8fz2apo0yuf1xbser75,ART Plus,0.1,png,Train
+cks2ip8fz2apt0yufe80n2of5,ART Plus,0.1,png,Train
+cks2ip8fz2apy0yuf8svl3gl6,ART Plus,0.1,png,Train
+cks2ip8fz2aq30yufdbw5em62,ART Plus,0.1,png,Train
+cks2ip8fz2aq80yuf2pz61jh3,ART Plus,0.1,png,Test
+cks2ip8fz2aqd0yufezrmgjit,ART Plus,0.1,png,Test
+cks2ip8fz2aqi0yufd759dhwz,ART Plus,0.1,png,Test
+cks2ip8g02aqn0yuf6rwc2lzk,ART Plus,0.1,png,Train
+cks2ip8g02aqs0yuf253hbrvq,ART Plus,0.1,png,Train
+cks2ip8g02aqx0yuf7rgt7zq4,ART Plus,0.1,png,Train
+cks2ip8g02ar20yufev0mari7,ART Plus,0.1,png,Valid
+cks2ip8g02ar70yufbpsk6siz,ART Plus,0.1,png,Train
+cks2ip8g02arc0yuf4t2cdu3q,ART Plus,0.1,png,Train
+cks2ip8g02arh0yufgha87gam,ART Plus,0.1,png,Test
+cks2ip8g02arm0yufhgwvdwo2,ART Plus,0.1,png,Test
+cks2ip8g02arr0yufd7gl4kkk,ART Plus,0.1,png,Train
+cks2ip8g02arw0yufh4mz8qjp,ART Plus,0.1,png,Train
+cks2ip8g02as10yuf5xctb6wb,ART Plus,0.1,png,Train
+cks2ip8g02as60yufdu62hsxw,ART Plus,0.1,png,Train
+cks2ip8g02asb0yuffj1u2ttz,ART Plus,0.1,png,Train
+cks2ip8g02asl0yuf4pu557ad,ART Plus,0.1,png,Train
+cks2ip8g02asq0yuf59owfht0,ART Plus,0.1,png,Test
+cks2ip8g02asv0yuf9f6q0mhk,ART Plus,0.1,png,Train
+cks2ip8g02at00yufgwb4622y,ART Plus,0.1,png,Train
+cks2ip8g02at50yuf89yz0n6d,ART Plus,0.1,png,Train
+cks2ip8g02ata0yufb3z51xsm,ART Plus,0.1,png,Train
+cks2ip8g02atf0yufa4w6gi5y,ART Plus,0.1,png,Train
+cks2ip8g02atk0yuf8t782xc9,ART Plus,0.1,png,Train
+cks2ip8g02atp0yuf8u8hdheq,ART Plus,0.1,png,Train
+cks2ip8g02atu0yuf77bk8e4a,ART Plus,0.1,png,Valid
+cks2ip8g02atz0yuf6ilzeb44,ART Plus,0.1,png,Train
+cks2ip8g12au40yuf6k7b29hs,ART Plus,0.1,png,Train
+cks2ip8g12aue0yuf1oso9w9g,ART Plus,0.1,png,Train
+cks2ip8g12auj0yuf0ivx85x6,ART Plus,0.1,png,Test
+cks2ip8g12auo0yufad0x90dv,ART Plus,0.1,png,Train
+cks2ip8g12aut0yuf2xyzfis6,ART Plus,0.1,png,Train
+cks2ip8g12auy0yufg7dscg3r,ART Plus,0.1,png,Test
+cks2ip8g12av30yufgirlchu3,ART Plus,0.1,png,Train
+cks2ip8g32av80yuf73500e1b,ART Plus,0.1,png,Test
+cks2ip8g32avd0yuf8kk19nbt,ART Plus,0.1,png,Valid
+cks2ip8g32avi0yuf2elsdkxg,ART Plus,0.1,png,Train
+cks2ip8g32avn0yuf78tdfdvs,ART Plus,0.1,png,Train
+cks2ip8g32avs0yuf7n9k4kap,ART Plus,0.1,png,Train
+cks2ip8g32avx0yuf1buw82up,ART Plus,0.1,png,Test
+cks2ip8g32aw20yufcvum9zg4,ART Plus,0.1,png,Test
+cks2ip8g32aw70yufbxh51g84,ART Plus,0.1,png,Valid
+cks2ip8g32awc0yuf3sif8n24,ART Plus,0.1,png,Train
+cks2ip8g32awh0yuf4laacm47,ART Plus,0.1,png,Test
+cks2ip8g32awm0yufc69v8g31,ART Plus,0.1,png,Train
+cks2ip8g32awr0yufdb501zvj,ART Plus,0.1,png,Train
+cks2ip8g32ax10yufafcahymx,ART Plus,0.1,png,Test
+cks2ip8g32ax60yuf5gsi45kr,ART Plus,0.1,png,Valid
+cks2ip8g32axb0yuf0x7k9v23,ART Plus,0.1,png,Train
+cks2ip8g32axg0yufdef89p1i,ART Plus,0.1,png,Valid
+cks2ip8g32axl0yuffojzg03e,ART Plus,0.1,png,Train
+cks2ip8g32axq0yuf7imr2g0i,ART Plus,0.1,png,Train
+cks2ip8g42axv0yufh1dt6esx,ART Plus,0.1,png,Train
+cks2ip8g42ay00yuf3wnq1m7v,ART Plus,0.1,png,Train
+cks2ip8g42ay50yuf14gu1z2j,ART Plus,0.1,png,Train
+cks2ip8g42aya0yufaqavejnk,ART Plus,0.1,png,Train
+cks2ip8g42ayk0yuf7pezfl4r,ART Plus,0.1,png,Valid
+cks2ip8g42ayu0yufhhn0chb2,ART Plus,0.1,png,Train
+cks2ip8g42ayz0yuf9x2e0ewv,ART Plus,0.1,png,Valid
+cks2ip8g42az40yuf8atp1v5e,ART Plus,0.1,png,Train
+cks2ip8g42az90yuf56ls11fv,ART Plus,0.1,png,Train
+cks2ip8g42aze0yuffg2368n3,ART Plus,0.1,png,Test
+cks2ip8g42azj0yuffh8c1ene,ART Plus,0.1,png,Valid
+cks2ip8g42azo0yufbtvq4q17,ART Plus,0.1,png,Valid
+cks2ip8g42azt0yufbkyf7rty,ART Plus,0.1,png,Train
+cks2ip8g42azy0yuf37k2cy1r,ART Plus,0.1,png,Train
+cks2ip8g42b030yufalnk3n9m,ART Plus,0.1,png,Test
+cks2ip8g42b080yufahkrgho2,ART Plus,0.1,png,Valid
+cks2ip8g42b0d0yufb9vwfwlc,ART Plus,0.1,png,Test
+cks2ip8g42b0i0yuf5btk9nh8,ART Plus,0.1,png,Train
+cks2ip8g42b0n0yuf189ue1jo,ART Plus,0.1,png,Train
+cks2ip8g42b0s0yuf23y8917i,ART Plus,0.1,png,Test
+cks2ip8g42b0x0yuf52ij1jiq,ART Plus,0.1,png,Valid
+cks2ip8g42b120yuf94cnfkk7,ART Plus,0.1,png,Train
+cks2ip8g42b170yufagxeensa,ART Plus,0.1,png,Train
+cks2ip8g42b1c0yufho49epn1,ART Plus,0.1,png,Train
+cks2ip8g42b1h0yufcdn15ybp,ART Plus,0.1,png,Valid
+cks2ip8g52b1m0yuf85xi6twx,ART Plus,0.1,png,Train
+cks2ip8g52b1r0yuf1gk2ag45,ART Plus,0.1,png,Train
+cks2ip8g52b1w0yuf7sju8s2a,ART Plus,0.1,png,Train
+cks2ip8g52b210yufcfvf3dmf,ART Plus,0.1,png,Train
+cks2ip8g52b260yuf0cd78u8c,ART Plus,0.1,png,Train
+cks2ip8g52b2b0yufckvnbt2s,ART Plus,0.1,png,Train
+cks2ip8g52b2l0yuf2w0n2sku,ART Plus,0.1,png,Train
+cks2ip8g52b2q0yufeq4m4sri,ART Plus,0.1,png,Train
+cks2ip8g52b2v0yufclqk54dh,ART Plus,0.1,png,Train
+cks2ip8g52b300yuffphdhrr2,ART Plus,0.1,png,Train
+cks2ip8g52b350yufhk65982p,ART Plus,0.1,png,Train
+cks2ip8g52b3f0yuf0w2x0ah0,ART Plus,0.1,png,Valid
+cks2ip8g52b3k0yufgi8q4xbj,ART Plus,0.1,png,Train
+cks2ip8g52b3p0yuf59jrh3hn,ART Plus,0.1,png,Train
+cks2ip8g52b3u0yuf558g4ihc,ART Plus,0.1,png,Test
+cks2ip8g52b3z0yuf93pj80xy,ART Plus,0.1,png,Train
+cks2ip8g52b490yuf8bkv9zjd,ART Plus,0.1,png,Train
+cks2ip8g52b4e0yuf2gksazvp,ART Plus,0.1,png,Train
+cks2ip8g52b4j0yufb70a5cs9,ART Plus,0.1,png,Train
+cks2ip8g52b4o0yuf2vjibofi,ART Plus,0.1,png,Train
+cks2ip8g52b4t0yufd3t2cn7p,ART Plus,0.1,png,Train
+cks2ip8g52b4y0yufa9mx0jhe,ART Plus,0.1,png,Train
+cks2ip8g52b530yufc8z6edv8,ART Plus,0.1,png,Train
+cks2ip8g62b580yufgzjjdxiu,ART Plus,0.1,png,Train
+cks2ip8g62b5d0yuf5cxyaden,ART Plus,0.1,png,Train
+cks2ip8g62b5i0yuffz6n5h0y,ART Plus,0.1,png,Train
+cks2ip8g62b5n0yuf2dsrb2m5,ART Plus,0.1,png,Valid
+cks2ip8g62b5s0yufccbr0u4x,ART Plus,0.1,png,Train
+cks2ip8g62b5x0yufgam2dfvk,ART Plus,0.1,png,Valid
+cks2ip8g62b620yuf6nnm7aof,ART Plus,0.1,png,Train
+cks2ip8g62b670yufdmwv2tou,ART Plus,0.1,png,Train
+cks2ip8g62b6c0yuf02sof0sk,ART Plus,0.1,png,Train
+cks2ip8g62b6h0yufc1o9cqk1,ART Plus,0.1,png,Valid
+cks2ip8g62b6m0yuf87jlcp65,ART Plus,0.1,png,Valid
+cks2ip8g62b6r0yuf65bga4sa,ART Plus,0.1,png,Train
+cks2ip8g62b6w0yuffpy96gut,ART Plus,0.1,png,Test
+cks2ip8g62b760yufe7k0a8gq,ART Plus,0.1,png,Train
+cks2ip8g62b7b0yuffrlb7xa1,ART Plus,0.1,png,Test
+cks2ip8g62b7g0yuffn6cc1vt,ART Plus,0.1,png,Train
+cks2ip8g62b7l0yufg4h03k4a,ART Plus,0.1,png,Test
+cks2ip8g62b7q0yufcezt50ch,ART Plus,0.1,png,Train
+cks2ip8g62b7v0yuf3jb15t0j,ART Plus,0.1,png,Valid
+cks2ip8g62b800yuf69qv95a0,ART Plus,0.1,png,Train
+cks2ip8g62b850yufcc1jf6sv,ART Plus,0.1,png,Train
+cks2ip8g62b8a0yuf00edc5h8,ART Plus,0.1,png,Train
+cks2ip8g72b9e0yuf1e3eawvo,ART Plus,0.1,png,Train
+cks2ip8g72b9j0yufgum8bynp,ART Plus,0.1,png,Train
+cks2ip8g72b9o0yuff93gdi78,ART Plus,0.1,png,Train
+cks2ip8g72b9t0yufhdk15egp,ART Plus,0.1,png,Train
+cks2ip8g72b9y0yufbw0cexe3,ART Plus,0.1,png,Train
+cks2ip8g72ba30yuf1zoh1y5z,ART Plus,0.1,png,Train
+cks2ip8g72ba80yuf3t9w3cau,ART Plus,0.1,png,Train
+cks2ip8g72bad0yuf22s9717j,ART Plus,0.1,png,Train
+cks2ip8g72bai0yufh3nl4gu3,ART Plus,0.1,png,Train
+cks2ip8g72ban0yufbzx4gayq,ART Plus,0.1,png,Train
+cks2ip8g72bas0yuf5i1scd3h,ART Plus,0.1,png,Test
+cks2ip8g72bax0yuf2v1gb0e6,ART Plus,0.1,png,Train
+cks2pg2q41sdt0ys7g253ao2h,ART Plus,0.1,png,Train
+cks2pp9oz1se40ys7gl0efru2,ART Plus,0.1,png,Train
+cks2pyifk2dxw0yuffam75f0w,ART Plus,0.1,png,Train
+cks2sholl2eqb0yufea6q7sdl,ART Plus,0.1,png,Train
+cks2six6b2eqx0yuf8xmh1f10,ART Plus,0.1,png,Test
+cks7u9tye5z3n0yto8zpa5lry,ART Plus,0.1,png,Valid
+cks7u9tye5z3s0ytogawp99fa,ART Plus,0.1,png,Valid
+cks7u9tye5z3x0ytobpznbmuu,ART Plus,0.1,png,Train
+cks7u9tye5z420ytoe2n3cutk,ART Plus,0.1,png,Train
+cks7u9tye5z470yto3orm435u,ART Plus,0.1,png,Train
+cks7u9tyf5z4c0yto861q1s8c,ART Plus,0.1,png,Train
+cks7u9tyf5z4h0yto6h345omi,ART Plus,0.1,png,Train
+cks7u9tyf5z4m0yto6f6saeh7,ART Plus,0.1,png,Valid
+cks7u9tyf5z4r0ytoc6w5bu84,ART Plus,0.1,png,Train
+cks7u9tyf5z4w0yto1rwoc7mi,ART Plus,0.1,png,Train
+cks7u9tyf5z510yto3v6p4zo5,ART Plus,0.1,png,Train
+cks7u9tyf5z560yto4ir085zr,ART Plus,0.1,png,Train
+cks7u9tyf5z5b0ytog86na6m9,ART Plus,0.1,png,Train
+cks7u9tyf5z5g0yto3kvl0waz,ART Plus,0.1,png,Test
+cks7u9tyf5z5l0yto9w6200ja,ART Plus,0.1,png,Test
+cks7u9tyf5z5q0yto66uk3ypq,ART Plus,0.1,png,Train
+cks7u9tyf5z5v0ytogxk4d7rc,ART Plus,0.1,png,Train
+cks7u9tyf5z600ytogt551kgt,ART Plus,0.1,png,Train
+cks7u9tyf5z650yto53kefdn6,ART Plus,0.1,png,Train
+cks7u9tyf5z6a0yto3m4f50gw,ART Plus,0.1,png,Train
+cks7u9tyf5z6f0ytogy1v9gyx,ART Plus,0.1,png,Train
+cks7u9tyf5z6k0ytoab4o3okx,ART Plus,0.1,png,Valid
+cks7u9tyf5z6p0yto4kye1chk,ART Plus,0.1,png,Train
+cks7u9tyf5z6u0ytoh6qa4tue,ART Plus,0.1,png,Train
+cks7u9tyf5z6z0yto0mb360t3,ART Plus,0.1,png,Train
+cks7u9tyf5z740ytogq3ubsmu,ART Plus,0.1,png,Train
+cks7u9tyg5z790yto92ypa6rm,ART Plus,0.1,png,Train
+cks7u9tyg5z7j0ytobkyxce57,ART Plus,0.1,png,Test
+cks7u9tyg5z7o0ytobfcp6azv,ART Plus,0.1,png,Train
+cks7u9tyg5z7t0yto2gkegk25,ART Plus,0.1,png,Valid
+cks7u9tyg5z7y0ytof9acgtut,ART Plus,0.1,png,Train
+cks7u9tyg5z830ytoc6h9fcsc,ART Plus,0.1,png,Train
+cks7u9tyg5z880ytobt7z4uot,ART Plus,0.1,png,Train
+cks7u9tyg5z8d0ytohlbsa2of,ART Plus,0.1,png,Train
+cks7u9tyg5z8i0yto3zowc0h4,ART Plus,0.1,png,Train
+cks7u9tyg5z8n0yto8d6438ss,ART Plus,0.1,png,Valid
+cks7u9tyg5z8s0ytof4la4elr,ART Plus,0.1,png,Valid
+cks7u9tyg5z8x0ytofpw476cr,ART Plus,0.1,png,Train
+cks7u9tyg5z920yto39q5hgv8,ART Plus,0.1,png,Train
+cks7u9tyg5z970yto5qm1aylu,ART Plus,0.1,png,Valid
+cks7vcjki63jv0ytobbnoamkk,ART Plus,0.1,png,Train
+cks7vcjki63k00ytobgrof2gw,ART Plus,0.1,png,Train
+cks7vcjki63k50yto20l03kkh,ART Plus,0.1,png,Train
+cks7vcjki63ka0yto4v5igz63,ART Plus,0.1,png,Valid
+cks7vcjki63kf0yto4yy2d7aa,ART Plus,0.1,png,Train
+cks7w6yay4sp00yrp1ebg8fol,ART Plus,0.1,png,Test
+cks7w6yay4spa0yrpcsjqbp0o,ART Plus,0.1,png,Valid
+cks7w6yay4spf0yrpfdyyam2r,ART Plus,0.1,png,Train
+cl5lc0isc127g072u23n3bcec,ProMax 2D,0.139,jpg,Test
+cl5lc0isc127k072u64uvg8es,ProMax 2D,0.139,jpg,Test
+cl5lc0isc127o072uae48ah7c,ProMax 2D,0.139,jpg,Train
+cl5lc0isc127s072u4cdb7upo,ProMax 2D,0.139,jpg,Train
+cl5lc0isc127w072u76hg2kch,ProMax 2D,0.139,jpg,Train
+cl5lc0isc1280072u4sueel90,ProMax 2D,0.139,jpg,Train
+cl5lc0isd1284072u6pj73iu1,ProMax 2D,0.139,jpg,Train
+cl5lc0isd1288072u7ylv5do5,ProMax 2D,0.139,jpg,Valid
+cl5lc0isd128c072u18hoabny,ProMax 2D,0.139,jpg,Train
+cl5lc0isd128g072u0ln1e3mb,ProMax 2D,0.139,jpg,Train
+cl5lc0isd128k072u7yd90muk,ProMax 2D,0.139,jpg,Valid
+cl5lc0isd128o072u3kn7hdzu,ProMax 2D,0.139,jpg,Train
+cl5lc0isd128s072ucfos30b1,ProMax 2D,0.139,jpg,Train
+cl5lc0isd128w072u4hvg4n8y,ProMax 2D,0.139,jpg,Test
+cl5lc0isd1290072ucmd4bi0d,ProMax 2D,0.139,jpg,Train
+cl5lc0isd1294072u3aapcr62,ProMax 2D,0.139,jpg,Train
+cl5lc0isd1298072u53z31emu,ProMax 2D,0.139,jpg,Test
+cl5lc0isd129c072ud49o0d1l,ProMax 2D,0.139,jpg,Train
+cl5lc0isd129g072ucikah8j4,ProMax 2D,0.139,jpg,Train
+cl5lc0isd129k072u95wi6cnk,ProMax 2D,0.139,jpg,Train
+cl5lc0isd129o072u2hr3g9by,ProMax 2D,0.139,jpg,Train
+cl5lc0isd129s072u8q2f6xbf,ProMax 2D,0.139,jpg,Train
+cl5lc0isd129w072u9nxj68k1,ProMax 2D,0.139,jpg,Valid
+cl5lc0isd12a0072u36ts48rg,ProMax 2D,0.139,jpg,Train
+cl5lc0isd12a4072uef0q4937,ProMax 2D,0.139,jpg,Train
+cl5lc0isd12a8072u3167dhy5,ProMax 2D,0.139,jpg,Train
+cl5lc0isd12ac072u11hk6avr,ProMax 2D,0.139,jpg,Train
+cl5lc0isd12ag072u54yse0w9,ProMax 2D,0.139,jpg,Train
+cl5lc0ise12ao072u1qbd6f3f,ProMax 2D,0.139,jpg,Train
+cl5lc0ise12as072ufsmvh91g,ProMax 2D,0.139,jpg,Train
+cl5lc0ise12aw072udmyzbf03,ProMax 2D,0.139,jpg,Valid
+cl5lc0ise12b0072uc8bb44mc,ProMax 2D,0.139,jpg,Train
+cl5lc0ise12b4072uhtg8a7z4,ProMax 2D,0.139,jpg,Train
+cl5lc0ise12b8072u0rii5wv1,ProMax 2D,0.139,jpg,Valid
+cl5lc0ise12bc072u2zm39twd,ProMax 2D,0.139,jpg,Train
+cl5lc0ise12bg072udqbn5a1f,ProMax 2D,0.139,jpg,Valid
+cl5lc0ise12bk072ugdfbbesd,ProMax 2D,0.139,jpg,Train
+cl5lc0ise12bo072u2swr18v2,ProMax 2D,0.139,jpg,Train
+cl5lc0ise12bs072u9zb31kau,ProMax 2D,0.139,jpg,Test
+cl5lc0ise12bw072u5qa90f12,ProMax 2D,0.139,jpg,Test
+cl5lc0ise12c4072uammkhute,ProMax 2D,0.139,jpg,Train
+cl5lg05uc0162074kcqzl2n56,ProMax with ProTouch,0.139,jpg,Test
+cl5lg05uc0166074k4il10izy,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uc016a074k1c5tcdyb,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uc016e074k5kg44fwg,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uc016i074khfsn205u,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uc016m074k8tltapbp,ProMax with ProTouch,0.139,jpg,Test
+cl5lg05uc016q074k5ct69rb3,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uc016u074k52t95p5v,ProMax with ProTouch,0.139,jpg,Valid
+cl5lg05uc016y074kh0952gjo,ProMax with ProTouch,0.139,jpg,Test
+cl5lg05uc0172074kbu3r0s02,ProMax with ProTouch,0.139,jpg,Test
+cl5lg05uc0176074k2q1bcd28,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05ud017a074k37pdhlni,ProMax with ProTouch,0.139,jpg,Test
+cl5lg05ud017e074k4xxj7kqr,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05ud017i074kf2ht6vn8,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05ud017m074k94q030wu,ProMax with ProTouch,0.139,jpg,Valid
+cl5lg05ud017q074k8ojw6poi,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05ud017u074kemaf7ppv,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05ud017y074k8zxi6fqn,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05ue0182074k2efjh49e,ProMax with ProTouch,0.139,jpg,Test
+cl5lg05ue0186074kbfc82fbb,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05ue018a074khqpze20p,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05ue018i074k09gpca9h,ProMax with ProTouch,0.139,jpg,Valid
+cl5lg05ue018m074kfcbs3c1w,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05ue018q074k5eix31qq,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05ue018u074kaazdbrpb,ProMax with ProTouch,0.139,jpg,Test
+cl5lg05ue018y074kdq6yc9cj,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05ue0192074kedq79vz4,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05ue0196074k9b619xdr,ProMax with ProTouch,0.139,jpg,Valid
+cl5lg05ue019e074kb93ueaaj,ProMax with ProTouch,0.139,jpg,Valid
+cl5lg05ue019i074kfgtu5ot7,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uf019m074k8q27h7oy,ProMax with ProTouch,0.139,jpg,Test
+cl5lg05uf019q074k77b49iib,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uf019y074kdndp09li,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uf01a2074k76uvfowo,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uf01a6074k9wdlgqlf,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uf01aa074k30lz1oq2,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uf01ae074kghf52vni,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05ug01am074k5dbu39k7,ProMax with ProTouch,0.139,jpg,Valid
+cl5lg05ug01aq074ka65k4wur,ProMax with ProTouch,0.139,jpg,Valid
+cl5lg05ug01au074k511u78le,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05ug01ay074kbk1j4cu4,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05ug01b2074kf0h42t6e,ProMax with ProTouch,0.139,jpg,Test
+cl5lg05ug01b6074k86t0bfw2,ProMax with ProTouch,0.139,jpg,Valid
+cl5lg05ug01ba074k7hvh8wpn,ProMax with ProTouch,0.139,jpg,Valid
+cl5lg05ug01be074ke6h6g4zi,ProMax with ProTouch,0.139,jpg,Valid
+cl5lg05ug01bi074k13ug0urw,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uh01bm074kgy8263b0,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uh01bq074kexaf74oe,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uh01bu074k41u2cc4k,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uh01by074keib0d158,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uh01c2074kaiage5hg,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uh01c6074k074j7dur,ProMax with ProTouch,0.139,jpg,Test
+cl5lg05uh01ca074k7em10yvb,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uh01ce074k7fys3wvt,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uj01ci074k7ug6a3tw,ProMax with ProTouch,0.139,jpg,Valid
+cl5lg05uj01cq074k5ywdds14,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uj01cu074k4nbl9w74,ProMax with ProTouch,0.139,jpg,Valid
+cl5lg05uj01cy074kbtgnglzs,ProMax with ProTouch,0.139,jpg,Test
+cl5lg05uj01d6074k93foas54,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uj01da074khtmo1ka4,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uj01de074k106bf9zw,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uj01di074k9c66fz67,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uj01dm074k6xz1hiw7,ProMax with ProTouch,0.139,jpg,Valid
+cl5lg05uj01dq074kg2o42anm,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uj01du074k5xq90sqe,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uk01dy074k23db93x3,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uk01e2074kdog34t38,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uk01e6074kbbr9cl5e,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uk01ea074kamsz9ccr,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uk01ee074kb626foie,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uk01ei074k6cjy5n5s,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uk01em074k88jag6nh,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uk01eq074k5kou14gg,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uk01eu074k43xm28on,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uk01ey074k4s9dftjk,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uk01f2074k0wkaaelh,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uk01f6074kddjj0jee,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uk01fa074k87516vt4,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uk01fe074kdu5640v5,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uk01fi074k69ht356y,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uk01fm074k5q270t2v,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uk01fq074k5vwj4gef,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uk01fu074kfuqths55,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uk01fy074kb2wm3i1e,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05ul01g6074k007y5xhr,ProMax with ProTouch,0.139,jpg,Test
+cl5lg05ul01ga074kg2k84v0q,ProMax with ProTouch,0.139,jpg,Test
+cl5lg05ul01ge074k302594d5,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05ul01gi074k9zo5faad,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05ul01gm074k2rztekih,ProMax with ProTouch,0.139,jpg,Test
+cl5lg05ul01gq074kb4xm8mml,ProMax with ProTouch,0.139,jpg,Test
+cl5lg05ul01gu074ke1yl6tfq,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05um01gy074kgdtmhjv2,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05um01h2074k1fmo9z46,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05um01h6074khpudeaam,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05um01ha074khr2degrt,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05un01he074kfbrc37bq,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05un01hi074kg3mk1imy,ProMax with ProTouch,0.139,jpg,Valid
+cl5lg05un01hm074k3dwy9l5q,ProMax with ProTouch,0.139,jpg,Test
+cl5lg05un01hq074k3k011hjm,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05un01hu074kecjj4moo,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05un01hy074k7rgke4k2,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05un01i2074kdypi82ox,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05un01i6074k1t7t4xku,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05un01ia074kf2a4ayes,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05un01ie074k778b5dor,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05un01ii074kgw2merzl,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uo01im074k9a253hc4,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uo01iq074k6zpr0akg,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uo01iu074k0mbd9lts,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uo01iy074k0up39fwu,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uo01j2074k3h7cejmi,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05up01j6074k2niue03y,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05up01je074k91sy1b3p,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05up01ji074k6aoj8hlm,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05up01jm074k72ck62j7,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05up01jq074k75kd1p9y,ProMax with ProTouch,0.139,jpg,Valid
+cl5lg05up01ju074k00s3d6mg,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05up01jy074kdce33nfb,ProMax with ProTouch,0.139,jpg,Test
+cl5lg05up01k2074khosl9t1j,ProMax with ProTouch,0.139,jpg,Test
+cl5lg05uq01k6074kh7rl7rdx,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uq01ka074k6w2h75zi,ProMax with ProTouch,0.139,jpg,Test
+cl5lg05uq01ki074ket8j8p6r,ProMax with ProTouch,0.139,jpg,Valid
+cl5lg05uq01km074kcn02bn6n,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uq01ky074k9skhh5tr,ProMax with ProTouch,0.139,jpg,Valid
+cl5lg05uq01l2074k0ynj11bp,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05uq01l6074k8ede90mx,ProMax with ProTouch,0.139,jpg,Valid
+cl5lg05ur01la074kh68u16fg,ProMax with ProTouch,0.139,jpg,Valid
+cl5lg05ur01le074kb6dyhgeh,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05ur01li074k1mdk7biv,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05ur01lm074kaznu2ncg,ProMax with ProTouch,0.139,jpg,Test
+cl5lg05ur01lq074kcubcg5ha,ProMax with ProTouch,0.139,jpg,Valid
+cl5lg05ur01lu074kexxr1ofb,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05ur01ly074k4bm89eu1,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05ur01m2074kbeh81fm4,ProMax with ProTouch,0.139,jpg,Train
+cl5lg05ur01m6074k2vok72zq,ProMax with ProTouch,0.139,jpg,Train
+cl6cc2n513zaj07711j1h3160,Hyperion X5,0.089,bmp,Test
+cl6cc2n513zan07712nt1h9pm,Hyperion X5,0.089,bmp,Train
+cl6cc2n513zar0771cugw9b3q,Hyperion X5,0.089,bmp,Valid
+cl6cc2n513zav0771ay5bbpnr,Hyperion X5,0.089,bmp,Test
+cl6cc2n513zaz077138c60zls,Hyperion X5,0.089,jpg,Train
+cl6cc2n513zb3077136bu56y8,Hyperion X5,0.089,bmp,Valid
+cl6cc2n523zb70771dmay07bf,Hyperion X5,0.089,bmp,Test
+cl6cc2n523zbb077188gfe6zl,Hyperion X5,0.089,bmp,Train
+cl6cc2n523zbf0771a3sh3q30,Hyperion X5,0.089,bmp,Test
+cl6cc2n523zbj07710jgxbe7h,Hyperion X5,0.089,jpg,Valid
+cl6cc2n523zbn07719shmb6gk,Hyperion X5,0.089,bmp,Train
+cl6cc2n523zbr0771hgpha6qt,Hyperion X5,0.089,bmp,Train
+cl6cc2n523zbv077159jphfkf,Hyperion X5,0.089,jpg,Train
+cl6cc2n523zbz07717qo57shj,Hyperion X5,0.089,jpg,Train
+cl6cc2n523zc30771gotx0pxa,Hyperion X5,0.089,bmp,Test
+cl6cc2n523zc70771dwtb6zoe,Hyperion X5,0.089,bmp,Train
+cl6cc2n533zcf0771haz16bs6,Hyperion X5,0.089,jpg,Test
+cl6cc2n533zcj07712nrf617t,Hyperion X5,0.089,jpg,Train
+cl6cc2n533zcn07717doa8tc6,Hyperion X5,0.089,bmp,Valid
+cl6cc2n533zcr07710ygj0j9d,Hyperion X5,0.089,bmp,Train
+cl6cc2n533zcv07714uzy9tsc,Hyperion X5,0.089,jpg,Valid
+cl6cc2n533zcz07719dkqgoig,Hyperion X5,0.089,bmp,Train
+cl6cc2n533zd30771hoa380a4,Hyperion X5,0.089,bmp,Train
+cl6cc2n533zd707710y0q2j39,Hyperion X5,0.089,bmp,Train
+cl6cc2n533zdb0771fj4b33qn,Hyperion X5,0.089,bmp,Train
+cl6cc2n533zdf07715gsshr2a,Hyperion X5,0.089,bmp,Train
+cl6cc2n533zdj07714q2eag83,Hyperion X5,0.089,bmp,Valid
+cl6cc2n543zdn077198zwh442,Hyperion X5,0.089,bmp,Valid
+cl6cc2n543zdr077179ho1mzo,Hyperion X5,0.089,jpg,Test
+cl6cc2n543zdv0771gbxo26rx,Hyperion X5,0.089,bmp,Train
+cl6cc2n543zdz0771268y9yps,Hyperion X5,0.089,jpg,Train
+cl6cc2n543ze30771b77f8w7c,Hyperion X5,0.089,jpg,Test
+cl6cc2n543ze70771c0ma2mg9,Hyperion X5,0.089,bmp,Train
+cl6cc2n543zeb0771cq8zdf07,Hyperion X5,0.089,bmp,Train
+cl6cc2n543zef077162xz7rq3,Hyperion X5,0.089,jpg,Train
+cl6cc2n543zej07716mhn6sta,Hyperion X5,0.089,bmp,Train
+cl6cc2n543zen07712a9n8tah,Hyperion X5,0.089,jpg,Valid
+cl6cc2n543zer07712f47amwz,Hyperion X5,0.089,jpg,Train
+cl6cc2n543zev0771c5nd1uys,Hyperion X5,0.089,bmp,Train
+cl6cc2n553zez0771dxlbhw8v,Hyperion X5,0.089,jpg,Train
+cl6cc2n553zf307715rh83094,Hyperion X5,0.089,bmp,Train
+cl6cc2n553zf707712m8nc9an,Hyperion X5,0.089,jpg,Train
+cl6cc2n553zfb077104oa4p7l,Hyperion X5,0.089,jpg,Train
+cl6cc2n553zff07710j1qhkn3,Hyperion X5,0.089,jpg,Train
+cl6cc2n553zfj077182tz12da,Hyperion X5,0.089,bmp,Train
+cl6cc2n553zfn07712kpf0cyv,Hyperion X5,0.089,jpg,Train
+cl6cc2n553zfr07714xj12i96,Hyperion X5,0.089,bmp,Valid
+cl6cc2n553zfv0771g42j4jmz,Smart3D,0.1,jpeg,Train
+cl6cc2n553zfz07711g2mct9r,Smart3D,0.1,jpeg,Train
+cl6cc2n553zg30771haqwgsos,Veraviewepocs 2D,0.144,jpeg,Valid
+cl6cc2n553zg707718u44cksu,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n553zgb077191wb37al,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n553zgf077108byc977,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n563zgj077197tj0aho,Smart3D,0.1,jpeg,Train
+cl6cc2n563zgn0771epnfayp9,Smart3D,0.1,jpeg,Valid
+cl6cc2n563zgr077132y38gtf,Smart3D,0.1,jpeg,Train
+cl6cc2n563zgv077126ty31dz,Smart3D,0.1,jpeg,Train
+cl6cc2n563zgz07711kqk3i2n,Smart3D,0.1,jpeg,Test
+cl6cc2n563zh70771dr5d6j2v,Smart3D,0.1,jpeg,Train
+cl6cc2n563zhb0771ewnx7ln7,Smart3D,0.1,jpeg,Train
+cl6cc2n563zhf07718d62csjr,Smart3D,0.1,jpeg,Train
+cl6cc2n563zhj0771f81zfqia,Smart3D,0.1,jpeg,Train
+cl6cc2n563zhn07718obeej9s,Smart3D,0.1,jpeg,Test
+cl6cc2n563zhr0771c1ae6r3m,Smart3D,0.1,jpeg,Train
+cl6cc2n563zhv077112m90x4m,Smart3D,0.1,jpeg,Train
+cl6cc2n563zhz07719nefdiri,Smart3D,0.1,jpeg,Test
+cl6cc2n563zi3077146tmct1f,Smart3D,0.1,jpeg,Train
+cl6cc2n563zi70771emf93jee,Smart3D,0.1,jpeg,Valid
+cl6cc2n573zib0771ga8p09xl,Smart3D,0.1,jpeg,Train
+cl6cc2n573zif077199ws5ck4,Smart3D,0.1,jpeg,Valid
+cl6cc2n573zin0771ggkr9kw3,Smart3D,0.1,jpeg,Train
+cl6cc2n573zir07712zpweiqy,Smart3D,0.1,jpeg,Train
+cl6cc2n573ziv07717bffe1x6,Smart3D,0.1,jpeg,Train
+cl6cc2n573ziz0771bqxwb02k,Smart3D,0.1,jpeg,Train
+cl6cc2n573zj30771fol8em9g,Smart3D,0.1,jpeg,Test
+cl6cc2n573zj70771hdwahxsm,Smart3D,0.1,jpeg,Train
+cl6cc2n573zjb07715qiyfp0t,Smart3D,0.1,jpeg,Train
+cl6cc2n573zjf0771ggrfb7au,Smart3D,0.1,jpeg,Train
+cl6cc2n573zjj07714vyehp8z,Smart3D,0.1,jpeg,Valid
+cl6cc2n573zjn0771h48sd9xw,Smart3D,0.1,jpeg,Train
+cl6cc2n573zjr0771efi0at28,Smart3D,0.1,jpeg,Train
+cl6cc2n573zjv077112pjhq2m,Smart3D,0.1,jpeg,Valid
+cl6cc2n573zjz07711kbn524w,Smart3D,0.1,jpeg,Train
+cl6cc2n583zk70771hxmocavd,Smart3D,0.1,jpeg,Train
+cl6cc2n583zkb0771b78p6q9e,Smart3D,0.1,jpeg,Valid
+cl6cc2n583zkf07711m0b65tz,Smart3D,0.1,jpeg,Train
+cl6cc2n583zkj0771f987fg5k,Smart3D,0.1,jpeg,Test
+cl6cc2n583zkn0771etud3y3c,Smart3D,0.1,jpeg,Train
+cl6cc2n583zkv0771ekww0ps6,Smart3D,0.1,jpeg,Train
+cl6cc2n583zkz07711zi95vxl,Smart3D,0.1,jpeg,Test
+cl6cc2n593zl30771ca1ndwl9,Smart3D,0.1,jpeg,Train
+cl6cc2n593zl70771ehe1a65a,Smart3D,0.1,jpeg,Train
+cl6cc2n593zlb0771gs10b4l6,Smart3D,0.1,jpeg,Train
+cl6cc2n593zlf077126jq54nv,Smart3D,0.1,jpeg,Train
+cl6cc2n593zlj07719j0xfqyi,Smart3D,0.1,jpeg,Valid
+cl6cc2n593zln0771bhnu47tc,Smart3D,0.1,jpeg,Train
+cl6cc2n593zlr07711zws8sje,Smart3D,0.1,jpeg,Train
+cl6cc2n593zlv07717gmkbup6,Smart3D,0.1,jpeg,Train
+cl6cc2n593zlz0771gkt88p5g,Smart3D,0.1,jpeg,Train
+cl6cc2n5a3zm3077187oo4dga,Smart3D,0.1,jpeg,Train
+cl6cc2n5a3zm70771dmr4caqp,Smart3D,0.1,jpeg,Test
+cl6cc2n5a3zmb0771c09946yc,Smart3D,0.1,jpeg,Test
+cl6cc2n5a3zmf0771he5sh0i5,Smart3D,0.1,jpeg,Train
+cl6cc2n5a3zmj077153cvhwyn,Smart3D,0.1,jpeg,Train
+cl6cc2n5a3zmn07711e6608i2,Smart3D,0.1,jpeg,Train
+cl6cc2n5a3zmr07716q6phclq,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5a3zmv07711dr01mm5,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5a3zmz07719v57gciw,Veraviewepocs 2D,0.144,jpeg,Valid
+cl6cc2n5a3zn3077137abgnwd,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5a3zn7077147c625uf,Veraviewepocs 2D,0.144,jpeg,Test
+cl6cc2n5a3znb0771h03jaor8,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5a3znf07711dy51kgx,Veraviewepocs 2D,0.144,jpeg,Test
+cl6cc2n5a3znj0771frac7yhi,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5b3znn0771fdwy7nyp,Veraviewepocs 2D,0.144,jpeg,Test
+cl6cc2n5b3znr07718l1s7lyy,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5b3znv077169z62lg8,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5b3znz07718ntmeo0a,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5b3zo3077106xmgmca,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5b3zo7077152xt362j,Veraviewepocs 2D,0.144,jpeg,Test
+cl6cc2n5b3zob07717qrlhxm8,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5b3zof07712tucewfc,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5b3zoj0771d97hhyfn,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5b3zon0771fdicfipn,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5b3zor07714218garg,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5b3zov0771gxdefozt,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5b3zoz07715myc02f8,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5b3zp30771f21ben24,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5b3zp707715ps0c8mb,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5b3zpb0771ejlb3ssb,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5c3zpf07711abic2r5,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5c3zpj0771hv78bswl,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5c3zpn0771bxf20vk3,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5c3zpr0771hpcu74es,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5c3zpv0771fxr4gzez,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5c3zpz07716y4bblxg,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5c3zq307710nkfeili,Veraviewepocs 2D,0.144,jpeg,Test
+cl6cc2n5c3zqb07712z81hwqf,Veraviewepocs 2D,0.144,jpeg,Valid
+cl6cc2n5c3zqf07719hvh8im8,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5c3zqj0771b9mufcmq,Veraviewepocs 2D,0.144,jpeg,Test
+cl6cc2n5c3zqn077186yv9qml,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5c3zqr07712vcg21lq,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5c3zqv07718trl0jle,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5c3zqz0771fydo5dn3,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5c3zr307713rc7arxg,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5d3zr707716wns4eej,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5d3zrb0771f52b2jhf,Veraviewepocs 2D,0.144,jpeg,Test
+cl6cc2n5d3zrf0771e6n154ww,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5d3zrj07716acg12g8,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5d3zrn07715svc0nst,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5d3zrr0771axy1deso,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5d3zrv07711qw6exc9,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5d3zrz07718sap8hom,Veraviewepocs 2D,0.144,jpeg,Valid
+cl6cc2n5d3zs707715xf50f4e,Veraviewepocs 2D,0.144,jpeg,Valid
+cl6cc2n5d3zsb0771b29vdrhy,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5d3zsf0771fg1ph23s,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5d3zsj0771fkz75res,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5d3zsn0771f7gb7wf9,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5d3zsr07713tm19sg1,Veraviewepocs 2D,0.144,jpeg,Test
+cl6cc2n5d3zsv0771esjqc4w0,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5e3zsz077141dq3vzi,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5e3zt30771au4n9ni9,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5e3zt707713do898o3,Veraviewepocs 2D,0.144,jpeg,Test
+cl6cc2n5e3ztb0771bk8t3knp,Veraviewepocs 2D,0.144,jpeg,Valid
+cl6cc2n5e3ztf07713hwag8f7,Veraviewepocs 2D,0.144,jpeg,Valid
+cl6cc2n5e3ztj07716g9gdw0z,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5e3ztn07713zh3d23z,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5e3ztr077139fc5qam,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5e3ztv07719h0ldopt,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5e3ztz07711arlgr03,Veraviewepocs 2D,0.144,jpeg,Test
+cl6cc2n5e3zu307715qgbc4ac,Veraviewepocs 2D,0.144,jpeg,Test
+cl6cc2n5e3zu70771c8xbcklb,Veraviewepocs 2D,0.144,jpeg,Valid
+cl6cc2n5e3zuf0771cd297w7h,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5e3zuj0771bvv7a7q5,Veraviewepocs 2D,0.144,jpeg,Test
+cl6cc2n5e3zun0771drp95p9f,Veraviewepocs 2D,0.144,jpeg,Valid
+cl6cc2n5f3zur07711u8l8p59,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5f3zuv077178vm0icg,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5f3zv3077167c720df,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5f3zv70771hetchclu,Veraviewepocs 2D,0.144,jpeg,Valid
+cl6cc2n5f3zvb077106vk309t,Veraviewepocs 2D,0.144,jpeg,Valid
+cl6cc2n5f3zvj07715mbf4a7g,Veraviewepocs 2D,0.144,jpeg,Test
+cl6cc2n5f3zvn0771donkdvia,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5f3zvr0771api92qav,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5f3zvz0771g222h3jq,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5f3zw30771983jcl5f,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5f3zw70771h8bvbvww,Veraviewepocs 2D,0.144,jpeg,Valid
+cl6cc2n5f3zwb07714lsqa7l4,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5f3zwf07719k6r01c7,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5g3zwj0771crvx526j,Veraviewepocs 2D,0.144,jpeg,Valid
+cl6cc2n5g3zwr07712ytj2qtq,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5g3zwv07719giw9qub,Veraviewepocs 2D,0.144,jpeg,Valid
+cl6cc2n5g3zwz07710jbk1fw1,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5g3zx307711p4o2rxj,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5g3zx70771eagfhofm,Veraviewepocs 2D,0.144,jpeg,Valid
+cl6cc2n5g3zxb0771fj1k9a5c,Veraviewepocs 2D,0.144,jpeg,Valid
+cl6cc2n5g3zxf0771fz7m4res,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5g3zxj0771axknfcud,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5g3zxn07716fqf0r4k,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5g3zxr07717r7g6u7j,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5g3zxv0771cqat8g7o,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5g3zxz0771868p0b32,Veraviewepocs 2D,0.144,jpeg,Test
+cl6cc2n5g3zy30771h5jndyqm,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5g3zy707715kb34t0d,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5h3zyb07717ole5upc,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5h3zyf07716nc8bu5m,Veraviewepocs 2D,0.144,jpeg,Valid
+cl6cc2n5h3zyj07710cq40bfo,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5h3zyn0771dakq6b44,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5h3zyr0771bq7nc562,Veraviewepocs 2D,0.144,jpeg,Valid
+cl6cc2n5h3zyv0771hh9x99dq,Veraviewepocs 2D,0.144,jpeg,Valid
+cl6cc2n5h3zyz0771cps068no,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5h3zz307710ovjhr5w,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5h3zz707712eld7ksl,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5h3zzb0771ahu93ogg,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5h3zzj0771fuxv5dv6,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5h3zzn077116l56wy9,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5h3zzr07714eqg4srl,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5h3zzv0771hlzefzex,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5h3zzz07714vbl0e4z,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5i40030771d5nd0tse,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5i40070771fu263ax6,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5i400b0771baan00wf,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5i400f07711sfvhhlt,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5i400j07710y5p2tov,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5i400n07711x137ebf,Veraviewepocs 2D,0.144,jpeg,Test
+cl6cc2n5i400r07716g12ggkk,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5i400v07716nw212c7,Veraviewepocs 2D,0.144,jpeg,Test
+cl6cc2n5i400z0771fuehgyen,Veraviewepocs 2D,0.144,jpeg,Valid
+cl6cc2n5i40170771hcl7317r,Veraviewepocs 2D,0.144,jpeg,Test
+cl6cc2n5i401b0771gbskeic9,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5i401f0771as4t0pmi,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5i401j077173eu3xq8,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5i401n0771ba5h7e9s,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5i401r07715cau9f5x,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5j401v0771842y4f7i,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5j401z0771364be0xr,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5j402307718tdhbeei,Veraviewepocs 2D,0.144,jpeg,Valid
+cl6cc2n5j402707714bsofzwr,Veraviewepocs 2D,0.144,jpeg,Test
+cl6cc2n5j402b077155hyeg4v,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5j402f07716450c3i3,Veraviewepocs 2D,0.144,jpeg,Valid
+cl6cc2n5j402j07718tm88003,Veraviewepocs 2D,0.144,jpeg,Test
+cl6cc2n5j402r07711icwflph,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5j402v07717k8n7st0,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5j402z0771g72o9shj,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5j40330771cc2g7f0w,Veraviewepocs 2D,0.144,jpeg,Test
+cl6cc2n5j403707710edvgs8s,Veraviewepocs 2D,0.144,jpeg,Test
+cl6cc2n5j403b0771abo31k8l,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5j403f077130hn0lfh,Veraviewepocs 2D,0.144,jpeg,Test
+cl6cc2n5k403n0771edti0x6h,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5k403r07713ivbaqh8,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5k403v0771h1ldan2b,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5k403z07712tv14ewf,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5k40430771aunigmej,Veraviewepocs 2D,0.144,jpeg,Valid
+cl6cc2n5k404707716zx8argc,Veraviewepocs 2D,0.144,jpeg,Test
+cl6cc2n5k404b07716s2x0m59,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5k404f077122dz63h7,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5k404j077178t4h37u,Veraviewepocs 2D,0.144,jpeg,Test
+cl6cc2n5k404n07710i6rco97,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5k404r07716yihau93,Veraviewepocs 2D,0.144,jpeg,Test
+cl6cc2n5k404v0771e8si6ocn,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5k404z07719wj7do2y,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5k405307716g0393xo,Veraviewepocs 2D,0.144,jpeg,Test
+cl6cc2n5k4057077158uleeo4,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5k405b0771ca0702uq,Veraviewepocs 2D,0.144,jpeg,Valid
+cl6cc2n5l405f07716t5ngor9,Veraviewepocs 2D,0.144,jpeg,Valid
+cl6cc2n5l405j0771gy5k2le0,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5l405n07713eef9lbt,Veraviewepocs 2D,0.144,jpeg,Train
+cl6cc2n5l405r07716rtkgowq,Veraviewepocs 2D,0.144,jpeg,Train
+cl6wmcdb23jfb078vas0r8v7e,Smart3D,0.1,jpeg,Train
+cl6wmcdb23jff078vadu9deg1,Veraviewepocs 2D,0.144,jpeg,Train
+cl6wmcdb33jfj078v9fp26xhe,Veraviewepocs 2D,0.144,jpeg,Train
+cl6wmcdb33jfr078v45g4gq2p,Veraviewepocs 2D,0.144,jpeg,Train
+cl6wmcdb33jfv078v0c1mdhk4,Veraviewepocs 2D,0.144,jpeg,Train
+cl6wmcdb33jfz078vbckhayz5,Veraviewepocs 2D,0.144,jpeg,Train
+cl6wmcdb33jg3078v41ej0e3h,Veraviewepocs 2D,0.144,jpeg,Train
+cl6wmcdb33jg7078vg8qv0cf3,Veraviewepocs 2D,0.144,jpeg,Train
+cl6wmcdb33jgb078vc8sv6cew,Veraviewepocs 2D,0.144,jpeg,Valid
+cl6wmcdb33jgf078v0wcib7hy,Veraviewepocs 2D,0.144,jpeg,Train
+cl6wmcdb33jgj078v9zyi5cxe,Veraviewepocs 2D,0.144,jpeg,Train
+cl6wmcdb33jgn078vhvulai7x,Veraviewepocs 2D,0.144,jpeg,Train
+cl6wmcdb43jgv078v9yjtfh4s,Veraviewepocs 2D,0.144,jpeg,Valid
+cl6wmcdb43jgz078v1j9fbsdo,Smart3D,0.1,jpeg,Train
+cl6wmcdb63jh7078v13ga1c18,Smart3D,0.1,jpeg,Valid
+cl6wmcdb63jhb078vdwe74a4v,Smart3D,0.1,jpeg,Test
+cl6wmcdb63jhf078v0vvi7sy0,Smart3D,0.1,jpeg,Valid
+cl6wmcdb63jhr078v9tnb0pvv,Hyperion X5,0.089,png,Train
+cl6wmcdb63jhv078v4cu8ho7z,Hyperion X5,0.089,bmp,Valid
+cl6wmcdb63ji3078v6n7c89lz,Hyperion X5,0.089,bmp,Train
+cl6wmcdb63ji7078vfjghd1sy,Hyperion X5,0.089,bmp,Train
+cl6wmcdb73jib078vco9y7hlw,Hyperion X5,0.089,bmp,Train
+cl6wmcdb73jif078va8z99fp2,Hyperion X5,0.089,bmp,Valid
+cl6wmcdb73jij078v8m8kh0bw,Hyperion X5,0.089,jpg,Train
+cl6wmcdb73jin078v1n9f2aw1,Hyperion X5,0.089,bmp,Train
+cl6wmcdb73jir078vejjg52ab,Hyperion X5,0.089,bmp,Train
+cl6wmcdb73jiv078v7m4xdb05,Hyperion X5,0.089,bmp,Train
+cl6wmcdb73jiz078vf3v92ome,Hyperion X5,0.089,png,Train
+cl6wmcdb73jj3078v07mpe0ck,Hyperion X5,0.089,bmp,Train
+cl6wmcdb73jj7078v1gli680d,Hyperion X5,0.089,jpg,Test
+cl6wmcdb73jjb078vd710abxx,Hyperion X5,0.089,bmp,Train
+cl6wmcdb83jjf078vef5qajjy,Hyperion X5,0.089,jpg,Train
+cl6wmcdb83jjj078v9nzbh8md,Hyperion X5,0.089,jpg,Train
+cl6wmcdb83jjn078v36yn98l2,Hyperion X5,0.089,bmp,Train
+cl6wmcdb83jjr078v5k47c5dr,Hyperion X5,0.089,bmp,Test
+cl6wmcdb83jjv078v70ko3qn7,Hyperion X5,0.089,jpg,Valid
+cl6wmcdb83jjz078v3zak3unv,Hyperion X5,0.089,jpg,Train
+cl6wmcdb83jk3078vgk6i1mc0,Hyperion X5,0.089,bmp,Train
+cl6wmcdb83jk7078vdmct1bg2,Hyperion X5,0.089,bmp,Train
+cl6wmcdb83jkb078v9sfi54hh,Hyperion X5,0.089,bmp,Test
+cl6wmcdb83jkf078vfz99aten,Hyperion X5,0.089,bmp,Train
+cl6wmcdb93jkj078v7cqudjqy,Hyperion X5,0.089,jpg,Test
+cl6wmcdb93jkn078vhml86xal,Hyperion X5,0.089,bmp,Valid
+cl6wmcdb93jkr078vh2b1gw5t,Hyperion X5,0.089,jpg,Valid
+cl6wmcdb93jkv078vf0xfcopr,Hyperion X5,0.089,jpg,Train
+cl6wmcdb93jkz078v6d2r2ruw,Hyperion X5,0.089,bmp,Train
+cl6wmcdb93jl3078vag3h22ps,Hyperion X5,0.089,bmp,Train
+cl6wmcdb93jl7078vb4jk3kmy,Hyperion X5,0.089,bmp,Train
+cl6wmcdb93jlb078v93t3e7c0,Hyperion X5,0.089,bmp,Train
+cl6wmcdb93jlf078vdcz21uip,Hyperion X5,0.089,bmp,Train
+cl6wmcdb93jlj078v73fegwkp,Hyperion X5,0.089,bmp,Train
+cl6wmcdb93jln078vb670gydn,Hyperion X5,0.089,bmp,Train
+cl6wmcdb93jlr078v36g71ltn,Hyperion X5,0.089,png,Valid
+cl6wmcdba3jlz078v634o0ufe,Hyperion X5,0.089,jpg,Train
+cl6wmcdba3jm3078v9j3j7smu,Hyperion X5,0.089,jpg,Train
+cl6wmcdba3jm7078v1r4f57sd,Hyperion X5,0.089,bmp,Test
+cl6wmcdba3jmb078v3q302jnb,Hyperion X5,0.089,bmp,Train
+cl6wmcdba3jmj078v3d6hhq5d,Hyperion X5,0.089,bmp,Train
+cl6wmcdba3jmn078vdhkraspd,Hyperion X5,0.089,jpg,Train
+cl6wmcdba3jmr078vepk3cu0t,Hyperion X5,0.089,jpg,Valid
+cl6wmcdba3jmv078vg2jbg3nx,Hyperion X5,0.089,bmp,Train
+cl6wmcdba3jmz078v96xegqz7,Hyperion X5,0.089,bmp,Train
+cl6wmcdba3jn3078v61e06tm5,Hyperion X5,0.089,bmp,Train
+cl6wmcdba3jn7078vd7vr641q,Hyperion X5,0.089,png,Train
+cl6wmcdbb3jnb078v60nvgqyv,Hyperion X5,0.089,bmp,Valid
+cl6wmcdbc3jnf078v6aisa0gd,Hyperion X5,0.089,bmp,Test
+cl6wmcdbc3jnj078v763y0iup,Hyperion X5,0.089,bmp,Test
+cl6wmcdbc3jnn078v569t8xai,Hyperion X5,0.089,jpg,Train
+cl6wmcdbc3jnv078v38ne2tdq,Hyperion X5,0.089,bmp,Train
+cl6wmcdbc3jnz078vcwqp3d1w,Hyperion X5,0.089,jpg,Test
+cl6wmcdbc3jo3078v8k5j16mc,Hyperion X5,0.089,bmp,Train
+cl6wmcdbc3jo7078v684yal6d,Hyperion X5,0.089,bmp,Train
+cl6yu68l20bv9075bbb2ebn3h,Hyperion X5,0.089,png,Train
+cl76jfqy90e250761byh78yb1,Rotograph EVO,0.135,bmp,Test
+cl76jfqya0e290761egw009wr,Rotograph EVO,0.135,bmp,Test
+cl76jfqya0e2d0761akeuavqb,Rotograph EVO,0.135,bmp,Train
+cl76jfqya0e2h07619hkc6e1p,Rotograph EVO,0.135,bmp,Train
+cl76jfqyc0e2p0761e0yhc0d7,Rotograph EVO,0.135,bmp,Train
+cl76jfqyc0e2t076134cnfb7s,Rotograph EVO,0.135,bmp,Train
+cl76jfqyc0e2x07610em2fb9f,Rotograph EVO,0.135,bmp,Train
+cl76jfqyc0e3107614999a6ct,Rotograph EVO,0.135,bmp,Train
+cl76jfqyc0e350761201d1un5,Rotograph EVO,0.135,bmp,Train
+cl76jfqyd0e3907618y4lfgqz,Rotograph EVO,0.135,bmp,Train
+cl76jfqyd0e3d0761e5owdqb4,Rotograph EVO,0.135,bmp,Train
+cl76jfqyd0e3h07610qnq1ok7,Rotograph EVO,0.135,bmp,Train
+cl76jfqyd0e3l07613b4o2677,Rotograph EVO,0.135,bmp,Test
+cl76jfqyd0e3p07615slb3pzs,Rotograph EVO,0.135,bmp,Train
+cl76jfqyd0e3t07611dckd0l2,Rotograph EVO,0.135,bmp,Train
+cl76jfqyd0e45076109u997ap,Rotograph EVO,0.135,bmp,Train
+cl76jfqyd0e490761aiqcdviq,Rotograph EVO,0.135,bmp,Train
+cl76jfqye0e4h076181yl8ywo,Rotograph EVO,0.135,bmp,Test
+cl76jfqye0e4l076186jngstm,Rotograph EVO,0.135,bmp,Train
+cl76jfqye0e4p07617uop1h4t,Rotograph EVO,0.135,bmp,Valid
+cl76jfqye0e4t0761hkrhbaaz,Rotograph EVO,0.135,bmp,Train
+cl76jfqye0e4x0761etshau5h,Rotograph EVO,0.135,bmp,Train
+cl76jfqye0e510761g7ke6yrh,Rotograph EVO,0.135,bmp,Test
+cl76jfqye0e5507615nooedyg,Rotograph EVO,0.135,bmp,Test
+cl76jfqye0e590761ehe8679d,Rotograph EVO,0.135,bmp,Train
+cl76jfqye0e5d0761hdwx8d97,Rotograph EVO,0.135,bmp,Train
+cl76jfqye0e5h076122wx6tkd,Rotograph EVO,0.135,bmp,Train
+cl76jfqye0e5l0761219a6e7l,Rotograph EVO,0.135,bmp,Train
+cl76jfqyf0e5t0761crbx5w5o,Rotograph EVO,0.135,bmp,Train
+cl76jfqyf0e6107611es40dq0,Rotograph EVO,0.135,bmp,Valid
+cl76jfqyf0e6507617a8sdrke,Rotograph EVO,0.135,bmp,Test
+cl774ufdq035a076wda2bdcoh,Rotograph EVO,0.135,bmp,Valid
+cl774ufdq035e076w0fxr7dyc,Rotograph EVO,0.135,bmp,Valid
+cl774ufdr035i076wf9qnfj2t,Rotograph EVO,0.135,bmp,Train
+cl777aklx03u6076w7sj1etfi,Rotograph EVO,0.135,bmp,Train
+cl777aklx03ua076whaie06kb,Rotograph EVO,0.135,bmp,Test
+cl777aklx03ue076w3c6qdxbh,Rotograph EVO,0.135,bmp,Test
+cl777aklx03ui076w6uwe99tw,Rotograph EVO,0.135,bmp,Valid
+cl777aklx03um076w1gov5mqp,Rotograph EVO,0.135,bmp,Train
+cl7ww1jcl9cc4084f8e6ca940,Rotograph EVO,0.135,bmp,Train
+cl7ww1jcl9cc8084ff07j78nl,Rotograph EVO,0.135,bmp,Train
+cl7ww1jcl9ccc084f28ny9tgd,Rotograph EVO,0.135,bmp,Train
+cl7ww1jcl9ccg084f1ezrdhff,Rotograph EVO,0.135,bmp,Valid
+cl7ww1jcl9cck084f3td84f9l,Rotograph EVO,0.135,bmp,Train
+cl7ww1jcl9cco084f5f1l57wz,Rotograph EVO,0.135,bmp,Train
+cl7ww1jcl9ccw084fgcjj9brn,Rotograph EVO,0.135,bmp,Train
+cl7ww1jcl9cd0084f7hzj2eie,Rotograph EVO,0.135,bmp,Train
+cl7ww1jcm9cd4084f52lqaqyi,Rotograph EVO,0.135,bmp,Train
+cl7ww1jcm9cd8084ffis0009v,Rotograph EVO,0.135,bmp,Valid
+cl7ww1jcm9cdc084f9lqu9qpa,Rotograph EVO,0.135,bmp,Train
+cl7ww1jcm9cdg084f85939lv1,Rotograph EVO,0.135,bmp,Train
+cl7ww1jcm9cdk084famgifg66,Rotograph EVO,0.135,bmp,Train
+cl7ww1jcm9cdo084f35j14vo1,Rotograph EVO,0.135,bmp,Test
+cl7ww1jcm9cds084fe72e6hws,Rotograph EVO,0.135,bmp,Train
+cl7ww1jcm9cdw084fe9756za1,Rotograph EVO,0.135,bmp,Train
+cl7ww1jcm9ce0084feq2scm6e,Rotograph EVO,0.135,bmp,Train
+cl7ww1jcm9ce4084f0feubcv7,Rotograph EVO,0.135,bmp,Train
+cl7ww1jcm9ce8084f1r2f1mk7,Rotograph EVO,0.135,bmp,Valid
+cl7ww1jcm9cec084falvh0h9u,Rotograph EVO,0.135,bmp,Train
+cl7ww1jcm9ceg084f4kby22cz,Rotograph EVO,0.135,bmp,Train
+cl7ww1jcp9cek084f0t1y8xii,Rotograph EVO,0.135,bmp,Train
+cl7ww1jcp9ces084f1iubd9wd,Rotograph EVO,0.135,bmp,Train
+cl7ww1jcp9cew084f73828f3u,Rotograph EVO,0.135,bmp,Valid
+cl7ww1jcp9cf0084ffpjcc285,Rotograph EVO,0.135,bmp,Valid
+cl7ww1jcp9cf4084f1q8ebagk,Rotograph EVO,0.135,bmp,Train
+cl7ww1jcp9cf8084f12la2216,Rotograph EVO,0.135,bmp,Train
+cl7ww1jcp9cfc084f3hps6wq4,Rotograph EVO,0.135,bmp,Train
+cl7ww1jcp9cfg084fazrb1l2x,Rotograph EVO,0.135,bmp,Train
+cl7ww1jcp9cfk084fgkua8l9o,Rotograph EVO,0.135,bmp,Test
+cl7ww1jcp9cfo084fhbnc6i8w,Rotograph EVO,0.135,bmp,Train
+cl7ww1jcp9cfs084f2r7j3v2k,Rotograph EVO,0.135,bmp,Valid
+cl7wwse8k9cio084f5nzj6oaw,Rotograph EVO,0.135,bmp,Train
+cl7wwyd8clakz07403yyh2t4o,Rotograph EVO,0.135,bmp,Train
+cl7wxlknslhtm074096gd5rpq,Rotograph EVO,0.135,bmp,Test
+cl7wxo5hka77k074mcwlmahk3,Rotograph EVO,0.135,bmp,Train
+cl7wxu5n5agfg077naial22ae,Rotograph EVO,0.135,bmp,Train
+cl7wy0ndc0ygb086788gc3quq,Rotograph EVO,0.135,bmp,Train
+cl7wy31molnr307403883a9a0,Rotograph EVO,0.135,bmp,Test
+cl7wyk9gd1373086d960s5srv,Rotograph EVO,0.135,bmp,Valid
+cl8ka1gfb2y2v072wdybg0dtg,Hyperion X5,0.089,jpg,Valid
+cl8ka1gfb2y2z072w022ffi7y,Hyperion X5,0.089,jpg,Test
+cl8ka1gfb2y33072w9atu8cm9,Hyperion X5,0.089,jpg,Train
+cl8ka1gfc2y37072w9pxq4vzm,Hyperion X5,0.089,jpg,Train
+cl8ka1gfc2y3b072wawosdu4b,Hyperion X5,0.089,jpg,Valid
+cl97eo0n008kd086r677g47mf,Hyperion X5,0.089,jpg,Train
+cl9ithjrr00op089j10ot94mh,Hyperion X5,0.089,jpg,Train
+cl9k69ka032gt088c4lrv3xgs,Hyperion X5,0.089,bmp,Train
+cl9k69ka032gx088c3606bw6o,Hyperion X5,0.089,bmp,Train
+cl9k69ka032h1088c4kwbfkm0,Hyperion X5,0.089,jpg,Train
+cl9k69ka032h5088c5vdo1h6z,Hyperion X5,0.089,bmp,Train
+cl9k69ka032h9088cc98d78oa,Hyperion X5,0.089,jpg,Train
+cl9k69ka032hd088c7gx8ele4,Hyperion X5,0.089,bmp,Train
+cl9k69ka032hl088c51bgc9z7,Hyperion X5,0.089,bmp,Train
+cl9k69ka032hp088c6xcqfav2,Hyperion X5,0.089,jpg,Valid
+cl9k69ka132ht088c6cw45x0y,Hyperion X5,0.089,bmp,Valid
+cl9k69ka132hx088cbdsn18bt,Hyperion X5,0.089,jpg,Train
+cl9k69ka132i5088c3imk12f4,Hyperion X5,0.089,jpg,Train
+cl9k69ka132id088cchpa7yxf,Hyperion X5,0.089,jpg,Train
+cl9k69ka132ih088c2b4gfhil,Hyperion X5,0.089,jpg,Train
+cl9k69ka132il088c8n4p2z52,Hyperion X5,0.089,jpg,Train
+cl9k69ka132ip088cdi507uhe,Hyperion X5,0.089,bmp,Train
+cl9k69ka132it088cbdvd3m3w,Hyperion X5,0.089,jpg,Test
+cl9k69ka132ix088c79z68vpt,Hyperion X5,0.089,jpg,Train
+cl9k69ka132j1088c74el966x,Hyperion X5,0.089,jpg,Train
+cl9k69ka132j5088cck0tbcno,Hyperion X5,0.089,bmp,Train
+cl9k69ka132j9088cd1wu98x6,Hyperion X5,0.089,jpg,Train
+cl9k69ka232jd088cckxl2x3g,Hyperion X5,0.089,bmp,Train
+cl9k69ka232jh088cc1sadvsa,Hyperion X5,0.089,jpg,Train
+cl9k69ka232jl088c2hqt289r,Hyperion X5,0.089,jpg,Test
+cl9k69ka232jt088cbh4f5ar1,Hyperion X5,0.089,bmp,Train
+cl9k69ka232k1088c6lhg4wkj,Hyperion X5,0.089,jpg,Test
+cl9k69ka232k5088c1h410h51,Hyperion X5,0.089,bmp,Test
+cl9k69ka432k9088c0cybe7no,Hyperion X5,0.089,jpg,Train
+cl9k69ka432kd088cevc92vq7,Hyperion X5,0.089,jpg,Train
+cl9k7amuc32nt088cctu0d10c,Hyperion X5,0.089,jpg,Train
+cl9kapf325rd8089j78bf6pyy,Hyperion X5,0.089,bmp,Train
+cl9kb5r8455du089bcs0pci76,Hyperion X5,0.089,bmp,Train
+cl9kcitwl2oqm088l0vi7d74l,Hyperion X5,0.089,bmp,Train
+cl9kcoc1733c5088c3boe0n72,Hyperion X5,0.089,bmp,Train

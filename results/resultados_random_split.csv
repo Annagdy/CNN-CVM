@@ -1,0 +1,2 @@
+Protocolo,Epocas,Fine-tuning,Accuracy,F1_macro,F1_weighted,AUC_ROC_macro_OvR,Cohen_Kappa_quad,N_teste
+Random Split (oficial Aariz),30,Completo,0.5,0.3432,0.4918,0.7639,0.5566,150
